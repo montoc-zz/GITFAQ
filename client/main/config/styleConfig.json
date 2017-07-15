@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#006400",
+  "secondayColor": "#FF9C2A",
+  "miscColors": ["#006400", "#3949AB", "#050F2C", "#ff9c2a"],
+  "bodyFontColor": "#333333",
+  "subtitleFontColor": "#757575",
+  "mainFontFamily":  "'Noto Sans', sans-serif",
+  "headerFontFamily":  "'Muli', sans-serif",
+  "readingTextFontFamily": "'Noto Sans', sans-serif",
+  "websiteBackgroundColor": "#F3F3F3",
+  "pageBackgroundColor": "#FFFFFF"
+}

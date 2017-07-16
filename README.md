@@ -1,1 +1,1 @@
-# https://montoc.github.io/Goonj-mini/
+# https://montoc.github.io/GITFAQ/
